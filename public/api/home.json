@@ -1,0 +1,59 @@
+{
+	"success": true,
+	"data": {
+		"topicList": [{
+			"id": 1,
+			"title": "社会热点",
+			"imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 2,
+			"title": "手手绘",
+			"imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 3,
+			"title": "哈哈",
+			"imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}],
+
+		"articleList": [{
+			"id": 1,
+			"title": "公司结构流程图的简单绘制方法",
+			"desc": "公司的管理与本身的制度有很大的规定，只有内部员工严格的要求自己才可以实现共赢，很多公司里面会有成员分布就是公司整体的结构流程图，这样方便在工作时...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/15887513-e339febc26c7532e.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}, {
+			"id": 2,
+			"title": "整理总结 2019.1.19",
+			"desc": "考虑到孩子的身高，将衣柜左侧隔板拆除，改为横杆挂衣服。妈穿的衣服挂在这个区域，供小朋友进行选择。下方放入抽屉型收纳，放置裤装和内衣，便于小朋友拿取...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/11700778-eed6844983dd6dd7.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}, {
+			"id": 3,
+			"title": "这5种男人，即使是个穷小子，女人也会抢着嫁",
+			"desc": "很多男人都认为，女人最看重的就是金钱，只要谁有足够的金钱，女人就会跟谁走。其实，女人最看重的，并不是金钱，而是男人怎样对待女人。",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/16235793-06ec0cd353e846e9.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}, {
+			"id": 4,
+			"title": "胡歌12年后首谈车祸：既然活下来了，就不能白白活着",
+			"desc": "文/麦大人 01 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "https://images.weserv.nl/?url=http://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+		}, {
+			"id": 2,
+			"imgUrl": "https://images.weserv.nl/?url=http://cdn2.jianshu.io/assets/web/banner-s-3-ddcc844ebdd8edca2d93b7ea5a8de79e.png"
+		},{
+			"id": 3,
+			"imgUrl": "https://images.weserv.nl/?url=http://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+		}, {
+			"id": 4,
+			"imgUrl": "https://images.weserv.nl/?url=http://cdn2.jianshu.io/assets/web/banner-s-3-ddcc844ebdd8edca2d93b7ea5a8de79e.png"
+		},{
+			"id": 5,
+			"imgUrl": "https://images.weserv.nl/?url=http://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+		}, {
+			"id": 6,
+			"imgUrl": "https://images.weserv.nl/?url=http://cdn2.jianshu.io/assets/web/banner-s-3-ddcc844ebdd8edca2d93b7ea5a8de79e.png"
+		}]
+	}
+}
